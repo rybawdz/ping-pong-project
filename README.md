@@ -1,2 +1,2 @@
 # ping-pong-project
-my first project it kinda sucks
+my first project it's quite simple
